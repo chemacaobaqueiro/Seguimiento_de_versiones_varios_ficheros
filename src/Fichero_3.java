@@ -3,6 +3,7 @@ public class Main {
 
         System.out.printf("Fichero 3");
         System.out.println("Cambios en el primer y tercer fichero");
+        System.out.println("Cambios en los tres ficheros");
 
         }
     }
